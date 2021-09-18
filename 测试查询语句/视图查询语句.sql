@@ -1,0 +1,10 @@
+SELECT *
+FROM 图书分类库存
+SELECT *
+FROM 报损单
+SELECT *
+FROM 入库单
+SELECT *
+FROM 读者未还借书
+SELECT *
+FROM 借出次数前100图书
